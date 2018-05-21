@@ -1809,6 +1809,18 @@ body {
 .cid-qSCvW9jGXv .popup-btn:hover .mbr-section-btn {
   opacity: 1;
 }
+.cid-qSIv7wViqE {
+  background: #ffffff;
+}
+.cid-qSIv7wViqE .video-block {
+  margin: auto;
+  width: 100% !important;
+}
+@media (max-width: 768px) {
+  .cid-qSIv7wViqE .video-block {
+    width: 100% !important;
+  }
+}
 .cid-qSCWMEdkXn {
   padding-top: 60px;
   padding-bottom: 60px;
